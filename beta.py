@@ -132,7 +132,7 @@ def get_text_json2(url,user_index):
 
 
 
-access_token='CAACEdEose0cBACZAzuuTvfECRO9pf41kfC2ktycvR1I9p2D5Pl9oZBZB8zG85Ic1Xy6KeV9Dg7EO868cY7J8isVaSCHZCHinGs2QjnRygptzK0RHp1MbauATdXrt2vqPiFLEnqwZCUepZAuMtmy2CIZBxCZAN0UmDhZAdBKueHnAC4qcRkdFcR5gx7qc3cm9YYLLEnlRgnOnzGgZDZD'
+access_token='Your-Token-Here'
 url1='https://graph.facebook.com/me/inbox?access_token='+access_token
 a11=return_list(url1)
 
